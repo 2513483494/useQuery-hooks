@@ -17,3 +17,5 @@ const { name, age } = form.getFieldsValue(['name', 'age'])
 setQuery({ name, age })
 
 ```
+在个人博客有详细说明
+https://2513483494.github.io/2021/07/18/%E8%87%AA%E5%AE%9A%E4%B9%89hook-useQuery%E7%AE%80%E5%8D%95%E5%AE%9E%E7%8E%B0/
